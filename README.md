@@ -16,7 +16,7 @@ A Chrome extension that enhances GitHub's file browser by adding distinctive ico
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/github-file-icons.git
+   git clone https://github.com/hari-krishna-tech/github-file-icon.git
    ```
 
 2. Open Chrome and navigate to:
