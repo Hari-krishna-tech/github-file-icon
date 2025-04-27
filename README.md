@@ -91,7 +91,7 @@ MIT LICENSE
 
 ---
 
-For issues, feature requests, or questions, please [open an issue]([link-to-issues](https://github.com/Hari-krishna-tech/github-file-icon/issues).
+For issues, feature requests, or questions, please [open an issue]([link-to-issues](https://github.com/Hari-krishna-tech/github-file-icon/issues)).
 
 Suggestions for improvement:
 
